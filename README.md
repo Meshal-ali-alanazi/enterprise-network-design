@@ -1,6 +1,6 @@
 # Network Project
 
-University network project for CEN-431 Computer Networks Lab.
+ network project for CEN-431 Computer Networks Lab.
 
 ## Files
 
